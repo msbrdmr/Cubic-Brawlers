@@ -3,7 +3,9 @@
 
 Cube Surfers game clone made by out team.
 
-Muhammed Musab Erdemir 19290305
+Muhammed Musab Erdemir
+Selim Koc
 
-Selim Koc 19290317
+https://appgallery.huawei.com/#/app/C108391983
+
 
